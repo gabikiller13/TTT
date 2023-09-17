@@ -22,5 +22,5 @@ document.getElementById('noButton').addEventListener('mouseover', randomizeButto
 randomizeButtonPosition();
 
 function redirectToYouTube() {
-  window.open('https://www.youtube.com/watch?v=yyfCPyQR-SE&pp=ygUGbmF0dGFu', '_blank');
+  window.open('https://www.youtube.com/watch?v=UeZG0viNAjM&pp=ygUTbWFrZSBsb3ZlIGRhZnQgcHVuaw%3D%3D', '_blank');
 }
